@@ -23,4 +23,4 @@ int main(){
     }
 }
 
-//time complexity is n^2
+//time complexity is O(n^2)

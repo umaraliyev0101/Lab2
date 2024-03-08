@@ -22,3 +22,5 @@ int main(){
         cout << count[i] << " ";
     }
 }
+
+//time complexity is n^2

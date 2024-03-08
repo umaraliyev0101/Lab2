@@ -24,4 +24,4 @@ int main(){
     }
 }
 
-//time complexity if O(n), Big omega - n;
+//time complexity if O(n), Big omega -> n;

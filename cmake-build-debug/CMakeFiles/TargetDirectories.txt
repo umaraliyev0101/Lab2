@@ -1,8 +1,0 @@
-/Users/d.umaraliyev/CLionProjects/Lab2/cmake-build-debug/CMakeFiles/p4.dir
-/Users/d.umaraliyev/CLionProjects/Lab2/cmake-build-debug/CMakeFiles/p5.dir
-/Users/d.umaraliyev/CLionProjects/Lab2/cmake-build-debug/CMakeFiles/p6.dir
-/Users/d.umaraliyev/CLionProjects/Lab2/cmake-build-debug/CMakeFiles/p7.dir
-/Users/d.umaraliyev/CLionProjects/Lab2/cmake-build-debug/CMakeFiles/p8.dir
-/Users/d.umaraliyev/CLionProjects/Lab2/cmake-build-debug/CMakeFiles/p9.dir
-/Users/d.umaraliyev/CLionProjects/Lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/d.umaraliyev/CLionProjects/Lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

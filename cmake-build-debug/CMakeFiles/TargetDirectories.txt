@@ -1,0 +1,8 @@
+C:/Users/user/Lab2/cmake-build-debug/CMakeFiles/p4.dir
+C:/Users/user/Lab2/cmake-build-debug/CMakeFiles/p5.dir
+C:/Users/user/Lab2/cmake-build-debug/CMakeFiles/p6.dir
+C:/Users/user/Lab2/cmake-build-debug/CMakeFiles/p7.dir
+C:/Users/user/Lab2/cmake-build-debug/CMakeFiles/p8.dir
+C:/Users/user/Lab2/cmake-build-debug/CMakeFiles/p9.dir
+C:/Users/user/Lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
